@@ -1,4 +1,4 @@
-#Trello dashboard: 
+Trello dashboard: 
 https://trello.com/b/8VOgwJ30/homemade-icecream-site
 
 # parcel-project-template
