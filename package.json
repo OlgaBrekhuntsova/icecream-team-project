@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://OlgaBrekhuntsova.github.io/icecream-team-project",
+  "homepage": "https://olgabrekhuntsova.github.io/icecream-team-project",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
